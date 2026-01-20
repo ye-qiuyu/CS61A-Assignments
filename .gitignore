@@ -10,3 +10,4 @@ __pycache__/
 .ok_storage
 .ok_storage.bak
 .ok_storage.db
+.ok_messages
